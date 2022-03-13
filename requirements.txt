@@ -82,6 +82,7 @@ vk==2.0.2
 waitress==1.4.4
 wasabi==0.8.2
 torch==1.10.0
+torch @ http://download.pytorch.org/whl/cpu/torch-1.10.0%2Bcpu-cp39-cp39-linux_x86_64.whl
 torchvision==0.11.1
 Pillow==8.0.1
 efficientnet-pytorch==0.7.1
